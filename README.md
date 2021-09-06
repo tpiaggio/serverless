@@ -10,3 +10,7 @@ Exercises are divided in folders depending on the library and language used.
 ### react/firebase-rtdb
 
 Lesson that consisted on explaining firebase and the Realtime Database.
+
+### react/firebase-auth
+
+Lesson that consisted on explaining firebase authentication & hosting.
