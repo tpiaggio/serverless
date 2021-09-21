@@ -14,3 +14,15 @@ Lesson that consisted on explaining firebase and the Realtime Database.
 ### react/firebase-auth
 
 Lesson that consisted on explaining firebase authentication & hosting.
+
+### react/firebase-security
+
+Lesson that consisted on explaining firebase security and firebase emulator.
+
+### flutter/Firebase-Auth
+
+Lesson that consisted on explaining firebase authentication & app distribution.
+
+### flutter/Firebase-Firestore
+
+Lesson that consisted on explaining firebase Firestore.
