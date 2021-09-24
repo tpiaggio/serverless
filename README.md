@@ -19,6 +19,10 @@ Lesson that consisted on explaining firebase authentication & hosting.
 
 Lesson that consisted on explaining firebase security and firebase emulator.
 
+### react/firebase-functions
+
+Lesson that consisted on explaining Firebase Cloud Functions and Cloud Storage.
+
 ### flutter/Firebase-Auth
 
 Lesson that consisted on explaining firebase authentication & app distribution.
